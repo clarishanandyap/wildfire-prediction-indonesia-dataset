@@ -1,1 +1,1 @@
-# wildfire-prediction-indonesia-dataset
+# Indonesia Wildfire Prediction
